@@ -1,4 +1,4 @@
-I work at the intersection of **machine learning, applied AI, and experimentation**.
+Hi there! I work at the intersection of **machine learning, applied AI, and experimentation**.
 
 My background spans research and production ML across **recommender systems, graph learning, NLP, computer vision, and generative AI**.
 
