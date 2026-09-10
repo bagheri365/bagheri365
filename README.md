@@ -1,12 +1,38 @@
-Hi there! I work at the intersection of **machine learning, applied AI, and experimentation**.
-
-My background spans research and production ML across **recommender systems, graph learning, NLP, computer vision, and generative AI**.
+Hi there! I work across **machine learning, applied AI, and experimentation**, with experience in **recommender systems, NLP, computer vision, and generative AI**.
 
 [LinkedIn](https://www.linkedin.com/in/bagheri365) · [Google Scholar](https://scholar.google.com/citations?user=_l5J4ccAAAAJ&hl=en)
 
-### Selected work
+## 🧠 LLM & Generative AI
 
-* **[PartyPilot](https://github.com/bagheri365/partypilot)** — Evaluating when decomposition and multi-agent coordination justify their added complexity.
-* **[AdaptLab](https://github.com/bagheri365/adaptlab)** — Controlled experiments comparing prompting, RAG, and LoRA for model adaptation.
-* **[DetectiveLab](https://github.com/bagheri365/detectivelab)** — Studying multimodal reasoning under conflicting sources of evidence.
-* **[CatDog Classifier Deployment](https://github.com/bagheri365/CatDog-Calssifier-Deployment)** — Deploying a deep-learning vision model as a containerized REST API.
+* **[reasoninglab](https://github.com/bagheri365/reasoninglab)** — Studies when **test-time reasoning improves LLM performance** versus when it simply adds compute.
+  `Chain-of-Thought` · `Test-Time Compute` · `Open-Weight LLMs` · `Ollama`
+
+* **[adaptlab](https://github.com/bagheri365/adaptlab)** — Compares **prompting, RAG, LoRA, and their combination** for adapting LLM behavior and knowledge.
+  `LoRA` · `RAG` · `Prompting` · `McNemar Test`
+
+* **[detectivelab](https://github.com/bagheri365/detectivelab)** — Tests how **multimodal models reason over visual, structured, and conflicting evidence** under uncertainty.
+  `Vision-Language Models` · `Multimodal Reasoning` · `Selective Prediction` · `Uncertainty Estimation`
+
+* **[evallab](https://github.com/bagheri365/evallab)** — Studies whether observed **LLM performance differences are statistically trustworthy and reproducible**.
+  `Paired Evaluation` · `Bootstrap CI` · `Benchmark Stability` · `Experimental Design`
+
+## 🎯 Recommender Systems, Search & Ranking
+
+* **[SearchRankLab](https://github.com/bagheri365/SearchRankLab)** — Evaluates **sparse, dense, hybrid, and reranked retrieval** across relevance, cost, and domain-shift tradeoffs.
+  `BM25` · `Sentence Transformers` · `Reciprocal Rank Fusion` · `Cross-Encoder`
+
+* **[CommerceRecLab](https://github.com/bagheri365/CommerceRecLab)** — Builds a **session-based e-commerce recommender** spanning candidate generation, ranking, cold start, and serving tradeoffs.
+  `Session-Based RecSys` · `Implicit Feedback` · `Candidate Generation` · `NDCG@20`
+
+* **[ReciprocalMatchLab](https://github.com/bagheri365/ReciprocalMatchLab)** — Models **two-sided preferences and mutual-match ranking** with calibrated probabilities and exposure-aware allocation.
+  `Logistic Regression` · `Probability Calibration` · `NDCG` · `Brier Score`
+
+* **[PolicyRecLab](https://github.com/bagheri365/PolicyRecLab)** — Studies **off-policy evaluation and exploration** for contextual-bandit recommendation under biased logged data.
+  `Contextual Bandits` · `IPS / SNIPS` · `Doubly Robust` · `Propensity Scores`
+
+* **[ObserveLab](https://github.com/bagheri365/observelab)** — Studies how **serving policies shape what recommenders can learn** and when exploration offsets exposure bias.
+  `Thompson Sampling` · `Contextual Bandits` · `Exploration–Exploitation` · `Exposure Bias`
+
+* **[ranklab](https://github.com/bagheri365/ranklab)** — Tests how **logging policy and behavioral targets affect offline recommender model selection**.
+  `BPR` · `LightGCN` · `NDCG@10` · `Randomized Logging`
+
