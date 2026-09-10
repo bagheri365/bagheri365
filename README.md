@@ -21,6 +21,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[SearchRankLab](https://github.com/bagheri365/SearchRankLab)** — Evaluates **sparse, dense, hybrid, and reranked retrieval** across relevance, cost, and domain-shift tradeoffs.
   `BM25` · `Sentence Transformers` · `Reciprocal Rank Fusion` · `Cross-Encoder`
 
+* **[PersonalRankLab](https://github.com/bagheri365/PersonalRankLab)** — Studies when **recent user behavior improves personalized ranking** and when recency weighting hurts compared with full-history user representations.
+  `Personalization` · `Temporal Modeling` · `NDCG@10` · `User-Clustered Bootstrap`
+  
 * **[CommerceRecLab](https://github.com/bagheri365/CommerceRecLab)** — Builds a **session-based e-commerce recommender** spanning candidate generation, ranking, cold start, and serving tradeoffs.
   `Session-Based RecSys` · `Implicit Feedback` · `Candidate Generation` · `NDCG@20`
 
