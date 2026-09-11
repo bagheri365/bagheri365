@@ -33,6 +33,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[PolicyRecLab](https://github.com/bagheri365/PolicyRecLab)** — Studies **off-policy evaluation and exploration** for contextual-bandit recommendation under biased logged data.
   `Contextual Bandits` · `IPS / SNIPS` · `Doubly Robust` · `Propensity Scores`
 
+* **[PolicyShiftLab](https://github.com/bagheri365/PolicyShiftLab)** — Studies how **policy-induced selective observation changes offline recommender evaluation and model selection** compared with randomized or target evaluation.
+  `Offline Evaluation` · `Covariate Shift` · `IPW / SNIPS` · `Brier Score`
+  
 * **[ObserveLab](https://github.com/bagheri365/observelab)** — Studies how **serving policies shape what recommenders can learn** and when exploration offsets exposure bias.
   `Thompson Sampling` · `Contextual Bandits` · `Exploration–Exploitation` · `Exposure Bias`
 
