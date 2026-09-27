@@ -16,11 +16,14 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[evallab](https://github.com/bagheri365/evallab)** — Studies whether observed **LLM performance differences are statistically trustworthy and reproducible**.
   `Paired Evaluation` · `Bootstrap CI` · `Benchmark Stability` · `Experimental Design`
 
-## 🎯 Recommender Systems, Search & Ranking
+## 🎯 Search, Ranking & Recommender Systems
 
 * **[SearchRankLab](https://github.com/bagheri365/SearchRankLab)** — Evaluates **sparse, dense, hybrid, and reranked retrieval** across relevance, cost, and domain-shift tradeoffs.
   `BM25` · `Sentence Transformers` · `Reciprocal Rank Fusion` · `Cross-Encoder`
 
+* **[QueryUnderstandLab](https://github.com/bagheri365/QueryUnderstandLab)** — Studies when **LLM-based query understanding and rewriting help or hurt search**, comparing robustness, intent extraction, BM25, and dense retrieval on real search queries.
+  `Query Understanding` · `Query Rewriting` · `BM25` · `Dense Retrieval`
+  
 * **[PersonalRankLab](https://github.com/bagheri365/PersonalRankLab)** — Studies when **recent user behavior improves personalized ranking** and when recency weighting hurts compared with full-history user representations.
   `Personalization` · `Temporal Modeling` · `NDCG@10` · `User-Clustered Bootstrap`
   
