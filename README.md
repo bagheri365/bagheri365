@@ -21,6 +21,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[SearchRankLab](https://github.com/bagheri365/SearchRankLab)** — Evaluates **sparse, dense, hybrid, and reranked retrieval** across relevance, cost, and domain-shift tradeoffs.
   `BM25` · `Sentence Transformers` · `Reciprocal Rank Fusion` · `Cross-Encoder`
 
+* **[SemanticRelevanceLab](https://github.com/bagheri365/SemanticRelevanceLab)** — Studies how **lexical, semantic, and learned relevance signals combine for robust search ranking**.
+  `BM25` · `Cross-Encoder` · `Learning to Rank` · `NDCG@10`
+
 * **[QueryUnderstandLab](https://github.com/bagheri365/QueryUnderstandLab)** — Studies when **LLM-based query understanding and rewriting help or hurt search**, comparing robustness, intent extraction, BM25, and dense retrieval on real search queries.
   `Query Understanding` · `Query Rewriting` · `BM25` · `Dense Retrieval`
   
