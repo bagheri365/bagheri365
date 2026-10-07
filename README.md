@@ -26,6 +26,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 
 * **[QueryUnderstandLab](https://github.com/bagheri365/QueryUnderstandLab)** — Studies when **LLM-based query understanding and rewriting help or hurt search**, comparing robustness, intent extraction, BM25, and dense retrieval on real search queries.
   `Query Understanding` · `Query Rewriting` · `BM25` · `Dense Retrieval`
+
+* **[GenRecLab](https://github.com/bagheri365/GenRecLab)** — Studies how **pretrained language models can support recommendation through representation, adaptation, context, and ranking** under controlled experiments.  
+  `LLM Recommendation` · `LoRA` · `Sequential Recommendation` · `Learning to Rank`
   
 * **[PersonalRankLab](https://github.com/bagheri365/PersonalRankLab)** — Studies when **recent user behavior improves personalized ranking** and when recency weighting hurts compared with full-history user representations.
   `Personalization` · `Temporal Modeling` · `NDCG@10` · `User-Clustered Bootstrap`
