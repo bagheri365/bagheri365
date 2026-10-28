@@ -42,6 +42,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[PolicyRecLab](https://github.com/bagheri365/PolicyRecLab)** — Studies **off-policy evaluation and exploration** for contextual-bandit recommendation under biased logged data.
   `Contextual Bandits` · `IPS / SNIPS` · `Doubly Robust` · `Propensity Scores`
 
+* **[BackwardQLab](https://github.com/bagheri365/BackwardQLab)** — Studies when **backward-induction Q-learning improves total reward across sequential recommendations** compared with independently optimized policies under cross-stage cannibalization.
+  `Reinforcement Learning` · `Backward-Induction Q-Learning` · `Sequential Decisions` · `Off-Policy Evaluation`
+  
 * **[PolicyShiftLab](https://github.com/bagheri365/PolicyShiftLab)** — Studies how **policy-induced selective observation changes offline recommender evaluation and model selection** compared with randomized or target evaluation.
   `Offline Evaluation` · `Covariate Shift` · `IPW / SNIPS` · `Brier Score`
   
