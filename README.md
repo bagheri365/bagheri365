@@ -32,6 +32,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
   
 * **[PersonalRankLab](https://github.com/bagheri365/PersonalRankLab)** — Studies when **recent user behavior improves personalized ranking** and when recency weighting hurts compared with full-history user representations.
   `Personalization` · `Temporal Modeling` · `NDCG@10` · `User-Clustered Bootstrap`
+
+* **[TravelerRecLab](https://github.com/bagheri365/TravelerRecLab)** — Studies how **recency-weighted, GRU, and Transformer-based traveler representations improve sequential hotel recommendations** under temporal evaluation and online updates.
+  `Sequential Recommendation` · `GRU4Rec` · `Transformers` · `Real-Time Personalization`
   
 * **[CommerceRecLab](https://github.com/bagheri365/CommerceRecLab)** — Builds a **session-based e-commerce recommender** spanning candidate generation, ranking, cold start, and serving tradeoffs.
   `Session-Based RecSys` · `Implicit Feedback` · `Candidate Generation` · `NDCG@20`
@@ -42,6 +45,9 @@ Hi there! I work across **machine learning, applied AI, and experimentation**, w
 * **[PolicyRecLab](https://github.com/bagheri365/PolicyRecLab)** — Studies **off-policy evaluation and exploration** for contextual-bandit recommendation under biased logged data.
   `Contextual Bandits` · `IPS / SNIPS` · `Doubly Robust` · `Propensity Scores`
 
+* **[OPEBenchLab](https://github.com/bagheri365/OPEBenchLab)** — Studies when **off-policy estimators can reliably evaluate recommendation policies** under sparse action coverage, biased logging, and reward-model errors.
+  `Off-Policy Evaluation` · `IPS / SNIPS` · `Doubly Robust` · `Slate Recommendation`
+  
 * **[BackwardQLab](https://github.com/bagheri365/BackwardQLab)** — Studies when **backward-induction Q-learning improves total reward across sequential recommendations** compared with independently optimized policies under cross-stage cannibalization.
   `Reinforcement Learning` · `Backward-Induction Q-Learning` · `Sequential Decisions` · `Off-Policy Evaluation`
   
